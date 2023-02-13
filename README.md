@@ -1,6 +1,8 @@
 # JavaLearn
 Java 基础+并发+虚拟+框架的复习
 
+学习视频：https://www.bilibili.com/video/BV15b4y117RJ
+
 **结构**
 
 - JavaLearn
